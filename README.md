@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">- Apaixonado por tecnologia<br>- Atualmente focando em ciência de dados<br>- Web backend | Java</p>
+<p align="left">- Apaixonado por tecnologia<br>- Ciêntista de dados<br>- Web backend | Java</p>
 
 ###
 
