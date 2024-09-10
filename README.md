@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">My name is Mateus, I'm 16 years old, and I'm from Brazil. I code as a hobby.<br><br>- 🌱 I'm working as a backend developer and data scientist.<br><br>- 🚀 I'm currently learning Spring Boot and Golang.<br><br>- ⚡ In my free time, I study mobile development.</p>
+<p align="left">My name is Mateus, I'm 17 years old, and I'm from Brazil. I code as a hobby.<br><br>- 🌱 I'm working as a backend developer and data scientist.<br><br>- 🚀 I'm currently learning Spring Boot and Golang.<br><br>- ⚡ In my free time, I study mobile development.</p>
 
 ###
 
